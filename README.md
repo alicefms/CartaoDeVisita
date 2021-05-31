@@ -1,3 +1,8 @@
+Desafio 01 sugerido na comunidade WomanWhoCode-Recife, no qual deveríamos construir um cartão de visitas, a partir de um modelo no figma, usando HTML e CSS, contendo nossas redes sociais. Como desafio extra, tentei deixá-lo responsivo.
+Abaixo, a descrição do desafio:
+--------------------
+
+
 # WWCode Challenges
 
 ## [FRONTEND] Desafio 01 - Card
